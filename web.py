@@ -46,3 +46,5 @@ print("Kills      Solo       Duos        Squad")
 print("------------------------------------------")
 print("{}  |   {}   |   {}   |   {}    ".format(kills,solok,duosk,squadk))
 print("------------------------------------------")
+
+#Will be updated soon...
